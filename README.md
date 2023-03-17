@@ -1,4 +1,4 @@
-# [SpaceExplore-Site-Scrimba01 (click to go to site)](https://h-vasq.github.io/SpaceExplor-Site-Scrimba01/)
+# [Coursework Project #2 (click to go to site)](https://h-vasq.github.io/SpaceExplor-Site-Scrimba01/)
 
 HTML CSS Project Scrimba course project
 
