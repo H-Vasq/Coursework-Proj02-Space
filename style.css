@@ -16,14 +16,21 @@ h1 {
 
 .btn {
     font-family: Orbitron, sans serif;
+    font-size: 30px;
+    border-radius: 9px;
     padding: 6px 12px;
     background: white;
     border: none;
 }
 
 .btn:hover {
+    color: rgba(62, 51, 216, 0.5);
     background-color: lime;
   }
+
+.apply {
+    height: 80px;
+}
 
 footer {
     position: fixed;
@@ -35,4 +42,8 @@ footer {
 
   a {
     color: #8ebf42;
+  }
+
+  .foot {
+    font-size: 30px;
   }
