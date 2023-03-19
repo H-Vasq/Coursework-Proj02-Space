@@ -2,5 +2,6 @@
 
 HTML CSS JS Scrimba course project
 
-Site Image Preview.  Created for testing purposes only.
+Site Image Preview.  Created for training purposes only. Button element to demo on-hover and JavaScript action only.
+
 ![spaceCover-studio](https://user-images.githubusercontent.com/123214691/225980609-da2bb79b-43f1-4a0f-af58-dc0934f82b12.jpg)
